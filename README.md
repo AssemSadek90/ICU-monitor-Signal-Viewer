@@ -5,50 +5,6 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Multi-Port, Multi-Channel Signal Viewer</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      line-height: 1.6;
-      color: #333;
-      background-color: #f8f8f8;
-      margin: 20px;
-    }
-
-    h1 {
-      color: #2a6496;
-    }
-
-    h2 {
-      color: #2a6496;
-    }
-
-    h3 {
-      color: #2a6496;
-    }
-
-    p {
-      margin-bottom: 15px;
-    }
-
-    code {
-      background-color: #f4f4f4;
-      padding: 5px;
-      border: 1px solid #ddd;
-    }
-
-    pre {
-      background-color: #f4f4f4;
-      padding: 10px;
-      border: 1px solid #ddd;
-      overflow-x: auto;
-    }
-
-    img {
-      max-width: 100%;
-      height: auto;
-    }
-
-  </style>
 </head>
 
 <body>
