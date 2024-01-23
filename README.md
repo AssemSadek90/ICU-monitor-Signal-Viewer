@@ -59,7 +59,7 @@
 
   <ol>
     <li>Clone the repository.</li>
-    <pre><code>git clone https://github.com/your-username/signal-viewer.git</code></pre>
+    <pre><code>git clone https://github.com/AssemSadek90/ICU-monitor-Signal-Viewer.git</code></pre>
     <li>Install dependencies.</li>
     <pre><code>
         pip install pyqt5
