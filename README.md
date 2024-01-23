@@ -61,7 +61,14 @@
     <li>Clone the repository.</li>
     <pre><code>git clone https://github.com/your-username/signal-viewer.git</code></pre>
     <li>Install dependencies.</li>
-    <pre><code>pip install -r requirements.txt</code></pre>
+    <pre><code>
+        pip install pyqt5
+        pip install numpy
+        pip install pandas
+        pip install pymupdf
+        pip install fitz
+        pip install pyqtgraph
+    </code></pre>
     <li>Run the application.</li>
     <pre><code>python signal_viewer.py</code></pre>
   </ol>
